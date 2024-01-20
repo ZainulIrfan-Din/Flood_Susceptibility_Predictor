@@ -1,2 +1,2 @@
 # Flood_Susceptibility_Predictor
-A Web-Based Flood Susceptibility Prediction System through Machine Learning using Logistic Regression Algorithm
+The author intends to improve the existing flood disaster early warning system in order to ensure better preparedness for future flood occurrences. With this project, the author proposed to develop a system that will be able to predicts the probability of an area to flood. The proposed system will be utilizing the technology of supervised machine learning and logistic regression algorithm which will require dataset such as water level data and intensity of rainfall data. Through the dataset, the proposed system will build a prediction model that predicts the susceptibility for an area to flood.
